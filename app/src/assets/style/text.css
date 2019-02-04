@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:100,300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:100,300,400,500,600');
+/*@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');*/
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px:100,300,400,500,700');
+
+a{
+  font-family: "Roboto Condensed";
+  text-decoration: none;
+  font-weight: 600;
+  color: darkblue;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+h2, .article_headline{
+  font-family: "Roboto Condensed";
+}
+
+h3, .article_headline{
+  font-family: "Roboto Condensed";
+}
+
+h4 {
+  font-family: "Roboto Condensed";
+  margin-bottom: 0.25em;
+  color: gray;
+}
+
+.article_headline{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.article_preamble{
+  font-family: "Roboto Condensed";
+  font-weight: 600;
+}
+
+.article_body{
+  font-family: "Slabo 27px";
+}
+
+.article_recommendation{
+  font-size: small;
+  letter-spacing: 0.025em;
+}
